@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Sitan Yang, and I am currently a Senior AI/ML Scientist in [Forecasting Science team](https://www.amazon.science/latest-news/the-history-of-amazons-forecasting-algorithm) of [Supply Chain Optimization Technology](https://www.amazon.science/tag/supply-chain-optimization-technologies) at Amazon. I got my Ph.D. from [Applied Math and Statistics Department](https://engineering.jhu.edu/ams/) of Johns Hopkins University. My current research focuses on developing cutting edge deep learning time series forecasting models for direct revenue-impacting supply chain operations.
+Hi, I am Sitan Yang. I am currently a Senior AI/ML Scientist in Forecasting Science team of [Supply Chain Optimization Technology](https://www.amazon.science/tag/supply-chain-optimization-technologies) at Amazon, where I lead the team's AI/ML research on deep learning time series models for direct revenue-impacting [supply chain demand forecasting](https://www.amazon.science/latest-news/the-history-of-amazons-forecasting-algorithm). I got my Ph.D. from [Applied Math and Statistics Department](https://engineering.jhu.edu/ams/) of Johns Hopkins University.
 
 A data-driven personal website
 ======
