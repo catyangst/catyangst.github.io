@@ -9,10 +9,15 @@ redirect_from:
 
 Hi, I am Sitan Yang. I am currently a Senior AI/ML Scientist in Forecasting Science team of [Supply Chain Optimization Technology](https://www.amazon.science/tag/supply-chain-optimization-technologies) at Amazon, where I lead the team's AI/ML research on deep learning time series models for direct revenue-impacting [supply chain demand forecasting](https://www.amazon.science/latest-news/the-history-of-amazons-forecasting-algorithm). I started my career at Bloomberg as a quantitative analyst developing Cross-Asset Derivative Pricing products and also worked for Equity Option Trading desk at Morgan Stanley. I got my Ph.D. from [Applied Math and Statistics Department](https://engineering.jhu.edu/ams/) of Johns Hopkins University.
 
-Publications
-------
+---
+permalink: /
+title: "Publications"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 [SPADE: Split Peak Attention DEcomposition](https://arxiv.org/abs/2411.05852) NIPS 2024 Workshop on Time Series in the Age of Large Models
-[_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
 
 Create content & metadata
 ------
