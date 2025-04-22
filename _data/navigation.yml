@@ -9,7 +9,7 @@
 
 main:
   - title: "Publications"
-    url: '#publications'
+    url: /about/#mypubs
     # Add fragment identifier for section within same page
     
   #- title: "Talks"
