@@ -18,6 +18,11 @@ Zexing Xu, Linjun Zhang, **Sitan Yang**, Rasoul Etesami, Hanghang Tong, Huan Zha
 * [GEANN:Scalable Graph Augmentations for Multi-Horizon Time Series Forecasting](https://arxiv.org/abs/2307.03595) *KDD 2023 Workshop on on
 Mining and Learning with Graphs* \
 **Sitan Yang**, Malcolm Wolff, Shankar Ramasubramanian, Vincent Quenneville-Belair, Ronak Metha, Michael W. Mahoney
-* [MQRetNN: Multi-Horizon Time Series Forecasting with Retrieval Augmentation](https://arxiv.org/abs/2207.10517) *KDD MiLeTS 2022*
+* [MQRetNN: Multi-Horizon Time Series Forecasting with Retrieval Augmentation](https://arxiv.org/abs/2207.10517) *KDD MiLeTS 2022* \
 **Sitan Yang**, Carson Eisenach, Dhruv Madeka
+
+Talks
+========
+* Multi-horizon Time Series Forecasting with Retrieval Augmentation, *Bloomberg Quant Seminar*, Oct. 2022 \
+[Bloomberg Quant Seminar](https://www.bloomberg.com/professional/products/bloomberg-terminal/research/lab/seminar-series/) is a premier seminar series that takes place in New York and covers a wide range of topics in quantitative finance and technology, chaired by Bruno Dupire, head of Quantitative Research at Bloomberg LP.  
 
