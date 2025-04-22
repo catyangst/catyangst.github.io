@@ -8,15 +8,15 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  - title: "Publications"
-    url: /about/#publications
-    # Add fragment identifier for section within same page
+  #- title: "Publications"
+  #  url: /about/#publications
+  # Add fragment identifier for section within same page
     
   #- title: "Talks"
   #  url: /talks/    
     
-  #- title: "CV"
-  #  url: /cv/
+  - title: "CV"
+    url: /cv/
     
   # - title: "CV"
   #   url: /cv-json/
