@@ -9,10 +9,10 @@
 
 main:
   - title: "Publications"
-    url: [Publications](#publications)
-
-  - title: "Talks"
-    url: /talks/    
+    # Publications
+    
+  #- title: "Talks"
+  #  url: /talks/    
     
   #- title: "CV"
   #  url: /cv/
