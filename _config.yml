@@ -25,9 +25,9 @@ author:
   avatar           : "profile.jpg"
   name             : "Sitan Yang"
   pronouns         : # example: "she/her"  
-  bio              : "AI/ML Scientist"
+  bio              : "AI/ML Scientist, Amazon"
   location         : "New York City"
-  employer         : "Amazon"
+  employer         : #""
   uri              : # URL
   email            : #"none@example.org" 
 
