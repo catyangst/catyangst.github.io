@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Sitan Yang"
+title                    : ""
 title_separator          : "-"
 name                     : &name "Sitan Yang"
 description              : &description "personal description"
