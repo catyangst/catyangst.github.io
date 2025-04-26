@@ -22,7 +22,7 @@ repository               : "catyangst/catyangst.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "profile_new.jpg"
   name             : "Sitan Yang"
   pronouns         : # example: "she/her"  
   bio              : "AI/ML Scientist @ Amazon"
