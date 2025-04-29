@@ -12,8 +12,7 @@ Hi, welcome to my homepage. I am currently a Senior AI/ML Scientist in Forecasti
    - Time series foundation models
    - Multimodal forecaster with LLM and time series
 
-Publications
-========
+## Publications
 * [SPADE: Split Peak Attention DEcomposition](https://arxiv.org/abs/2411.05852) \
 *NIPS 2024 Workshop on Time Series in the Age of Large Models* \
 Malcolm Wolff, Kin G. Olivares, Boris Oreshkin, Sunny Ruan, **Sitan Yang**, Abhinav Katoch, Shankar Ramasubramanian, Youxin Zhang, Michael W. Mahoney, Dmitry Efimov, Vincent Quenneville-Bélair
@@ -27,8 +26,7 @@ Zexing Xu, Linjun Zhang, **Sitan Yang**, Rasoul Etesami, Hanghang Tong, Huan Zha
 *KDD MiLeTS 2022* (Best ML Paper in Amazon Consumer Science Summit 2022)  \
 **Sitan Yang**, Carson Eisenach, Dhruv Madeka
 
-Talks
-========
+## Talks
 * Multi-horizon Time Series Forecasting with Retrieval Augmentation \
 *Bloomberg Quant Seminar*, Oct. 2022 \
 [Bloomberg Quant Seminar](https://www.bloomberg.com/professional/products/bloomberg-terminal/research/lab/seminar-series/) is a premier seminar series that takes place in New York and covers a wide range of topics in quantitative finance and technology, chaired by Bruno Dupire, head of Quantitative Research at Bloomberg LP.  
