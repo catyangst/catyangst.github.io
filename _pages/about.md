@@ -19,7 +19,7 @@ Malcolm Wolff, Kin G. Olivares, Boris Oreshkin, Sunny Ruan, **Sitan Yang**, Abhi
 * [GNN-Enhanced Meta-Learning for Peak Period Demand Forecasting with Proxy Data](https://arxiv.org/abs/2406.16221) \
 *WACV 2024 Workshop on Physical Retail AI* \
 Zexing Xu, Linjun Zhang, **Sitan Yang**, Rasoul Etesami, Hanghang Tong, Huan Zhang, Jiawei Han
-* [GEANN:Scalable Graph Augmentations for Multi-Horizon Time Series Forecasting](https://arxiv.org/abs/2307.03595) \
+* [GEANN: Scalable Graph Augmentations for Multi-Horizon Time Series Forecasting](https://arxiv.org/abs/2307.03595) \
 *KDD 2023 Workshop on on Mining and Learning with Graphs* \
 **Sitan Yang**, Malcolm Wolff, Shankar Ramasubramanian, Vincent Quenneville-Belair, Ronak Metha, Michael W. Mahoney
 * [MQRetNN: Multi-Horizon Time Series Forecasting with Retrieval Augmentation](https://arxiv.org/abs/2207.10517) \
