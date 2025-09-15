@@ -15,9 +15,12 @@ I am a passionate researcher, builder and practitioner of real-world AI/ML model
    - Multimodal forecaster with LLM and time series
 
 ## Publications
-* [SPADE: Split Peak Attention DEcomposition](https://arxiv.org/abs/2411.05852) \
-*NIPS 2024 Workshop on Time Series in the Age of Large Models* \
-Malcolm Wolff, Kin G. Olivares, Boris Oreshkin, Sunny Ruan, **Sitan Yang**, Abhinav Katoch, Shankar Ramasubramanian, Youxin Zhang, Michael W. Mahoney, Dmitry Efimov, Vincent Quenneville-Bélair
+* [RSight: A deep neural network for product demand forecasting over geographic regions](https://openreview.net/forum?id=sQU2q3m2uv) \
+*KDD 2025 Workshop on AI for Supply Chain* \
+Hanjing Zhu, **Sitan Yang**, Tanmay Gupta, Harrison Waldon, Kin G. Olivares, Rahul Gopalsamy
+* [SPADE-S: A Sparsity-Robust Foundational Forecaster](https://arxiv.org/abs/2507.21155) \
+*KDD 2025 Workshop on AI for Supply Chain* \
+Malcolm Wolff, Matthew Li, Ravi Kiran Selvam, Hanjing Zhu, Kin G. Olivares, Ruijun Ma, Abhinav Katoch, Shankar Ramasubramanian, Mengfei Cao, Roberto Bandarra, Rahul Gopalsamy, Stefania La Vattiata, **Sitan Yang**, Michael W. Mahoney
 * [GNN-Enhanced Meta-Learning for Peak Period Demand Forecasting with Proxy Data](https://arxiv.org/abs/2406.16221) \
 *WACV 2024 Workshop on Physical Retail AI* \
 Zexing Xu, Linjun Zhang, **Sitan Yang**, Rasoul Etesami, Hanghang Tong, Huan Zhang, Jiawei Han
