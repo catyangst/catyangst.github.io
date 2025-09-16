@@ -15,7 +15,7 @@ I am a passionate researcher, builder and practitioner of real-world AI/ML model
    - Multimodal forecaster with LLM and time series
 
 ## Publications
-* [TAT: Temporal-Aligned Transformer for Multi-Horizon Peak Demand Forecasting]([https://openreview.net/forum?id=sQU2q3m2uv](https://arxiv.org/abs/2507.10349)) \
+* [TAT: Temporal-Aligned Transformer for Multi-Horizon Peak Demand Forecasting](https://arxiv.org/abs/2507.10349) \
 *KDD 2025 Workshop on AI for Supply Chain*
 Zhiyuan Zhao, **Sitan Yang**, Kin G. Olivares, Boris N. Oreshkin, Stan Vitebsky, Michael W. Mahoney, B. Aditya Prakash, Dmitry Efimov
 * [RSight: A deep neural network for product demand forecasting over geographic regions](https://openreview.net/forum?id=sQU2q3m2uv) \
